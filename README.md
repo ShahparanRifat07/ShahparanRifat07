@@ -5,11 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahparanrifat07&label=Profile%20views&color=0e75b6&style=flat" alt="shahparanrifat07" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shahparanrifat" target="blank"><img src="https://img.shields.io/twitter/follow/shahparanrifat?logo=twitter&style=for-the-badge" alt="shahparanrifat" /></a> </p>
-
-- 🌱 I’m currently learning **Django Rest Framework, Laravel, Vue.js**
-
-- 💬 Ask me about **Django, Java, Python**
-
 - 📫 How to reach me **shahparanrifat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
