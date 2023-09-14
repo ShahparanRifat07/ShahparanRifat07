@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shah Paran Rifat</h1>
 <h3 align="center">I design and build applications.</h3>
-<img align="right" alt="Coding" width="400" src="https://shorturl.at/nBCVX">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahparanrifat07&label=Profile%20views&color=0e75b6&style=flat" alt="shahparanrifat07" /> </p>
 
